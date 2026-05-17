@@ -9,7 +9,7 @@ from SANYAMUSIC import app
 
 load_dotenv()
 
-OWNER_ID = getenv("OWNER_ID", 1366105247)  # Replace with your Telegram User ID
+OWNER_ID = getenv("OWNER_ID", "8333032285")  # Replace with your Telegram User ID
 
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
@@ -24,7 +24,7 @@ async def show_config(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="t.me/unrealaura"
+                        "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="t.me/Fire_is_fire"
                     )
                 ]
             ]
