@@ -22,7 +22,7 @@ MODEL = GROQ_MODEL
 MAX_HISTORY_DM = 12
 MAX_HISTORY_GROUP = 12
 MAX_STORAGE_CHATS = 15
-OWNER_LINK = f"tg://user?id={OWNER_ID}" if OWNER_ID else "t.me/unrealaura"
+OWNER_LINK = f"tg://user?id={OWNER_ID}" if OWNER_ID else "t.me/Fire_is_fire"
 
 # --- Cute Sticker Packs ---
 STICKER_PACKS = [
@@ -327,7 +327,7 @@ __MODULE__ = "AI ChatBot"
 __HELP__ = """
 **Cʜᴀᴛʙᴏᴛ Fᴇᴀᴛᴜʀᴇs**
 
-Sᴀɴʏᴀ ʜᴀs ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ AI ᴄʜᴀᴛʙᴏᴛ ᴡɪᴛʜ ᴀ ᴜɴɪǫᴜᴇ ᴘᴇʀsᴏɴᴀ.
+Aurora ʜᴀs ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ AI ᴄʜᴀᴛʙᴏᴛ ᴡɪᴛʜ ᴀ ᴜɴɪǫᴜᴇ ᴘᴇʀsᴏɴᴀ.
 
 **Cᴏᴍᴍᴀɴᴅs:**
 » /chatbot: (Admins only) Oᴘᴇɴs ᴛʜᴇ ᴄʜᴀᴛʙᴏᴛ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ ғᴏʀ ᴛʜᴇ ɢʀᴏᴜᴘ.
@@ -336,8 +336,8 @@ Sᴀɴʏᴀ ʜᴀs ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ AI ᴄʜᴀᴛʙᴏᴛ ᴡɪᴛ
 **Hᴏᴡ ᴛᴏ Usᴇ:**
 1. **Iɴ Gʀᴏᴜᴘs:**
    - Admins can use `/chatbot` to enable/disable the AI.
-   - To talk to her, reply to her messages or mention her (`@AnyaBeats_bot`).
-   - She will also respond to short greetings like 'hi', 'hello', 'anya' etc.
+   - To talk to her, reply to her messages or mention her (`@Miss_Aurorabot`).
+   - She will also respond to short greetings like 'hi', 'hello', 'aurora' etc.
 2. **Iɴ PM:**
    - Use `/chatbot` to enable/disable the AI.
    - Just send her a message to talk.
